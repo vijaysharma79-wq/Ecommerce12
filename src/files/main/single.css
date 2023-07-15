@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+.big {
+    margin: 30px 20px;
+    display: flex;
+    justify-content: center;
+    background-color: #e6e6e627;
+}
+.n1m{
+    font-family: 'Playfair Display', serif;
+}
+.prd{
+    margin-top: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.inf2{
+    font-family: 'Playfair Display', serif;
+
+}
+.prc3{
+    margin-bottom: 15px;
+}
+.main-i{
+    height: 450px;
+    border: 4px solid rgba(75, 69, 81, 0.066);
+}
+#imn{
+    height: 400px;
+    padding: 20px;
+    /* border: 10px solid rgb(212, 191, 191); */
+
+}
+.main-item{
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.btns{
+    margin-top: 30px;
+    background-color: rgb(224, 179, 17);
+}
+@media screen and (max-width:550px) {
+.big{
+    display: flex;
+    flex-direction: column;
+}
+}

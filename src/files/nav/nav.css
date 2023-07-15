@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    /* background-color:#61a9b5; */
+    background-color: #9e9c9c8f;
+
+}
+.nav-item{
+font-size: x-large;
+font-weight: 500;
+font-family: 'Playfair Display', serif;
+}
+#nnn{
+    padding-top: 5px;
+    font-size: xx-large;
+    font-weight: 600;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
